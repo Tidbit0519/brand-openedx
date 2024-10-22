@@ -1,5 +1,5 @@
 // Use this file to define style overrides for @edx/paragon
 // This file is included after all Paragon styles, but should generally avoid using private mixins in Paragon.
-header {
-  background-color: #9e1b34;
+h1 {
+  background-color: #9e1b34 !important;
 }
